@@ -1,5 +1,3 @@
 package controller;
 
-public class C {
-	//hello EVERyon
-}
+public class C {}
