@@ -19,14 +19,10 @@ public class C {
 		System.out.println("there is changes simultaneously.......");
 
 		System.out.println("this is testing 5 fro github");
-//>>>>>>> branch 'master' of https://github.com/LearningGitHubProjects/testProject.git
-	
-	
-<<<<<<< HEAD
+
 	System.out.println("Origin changes done.......");
-=======
+
 	System.out.println("THEoeE CHANGES FROM ORIGIN.......");
->>>>>>> branch 'master' of https://github.com/LearningGitHubProjects/testProject.git
 	
 	System.out.println("New statement for printing...");
 	
