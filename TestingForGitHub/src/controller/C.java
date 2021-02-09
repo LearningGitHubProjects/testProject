@@ -1,5 +1,6 @@
 package controller;
 
+<<<<<<< HEAD
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.IOException;
@@ -82,7 +83,11 @@ public class C extends HttpServlet {
 		
 		System.out.println("THESE CHANGES ARE MADE BY PRADIP SAWANT.......");
 	}
+=======
+public class C {
+>>>>>>> branch 'master' of https://github.com/LearningGitHubProjects/testProject.git
 	
+<<<<<<< HEAD
 	
 
 	protected void processRequest(HttpServletRequest request, HttpServletResponse response)
@@ -2497,5 +2502,10 @@ public class C extends HttpServlet {
 			return String.valueOf(CaseConstants.EMAIL_VERIFICATION);
 
 		return null;
+=======
+	public void makeGitChanges()
+	{
+		System.out.println("This is changes for testing");
+>>>>>>> branch 'master' of https://github.com/LearningGitHubProjects/testProject.git
 	}
 }
