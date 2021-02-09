@@ -13,5 +13,6 @@ public class C {
 	
 	public void letsTestDuplex(){
 		System.out.println("Tested duplex basic.......");
+		System.out.println("testing for merging.....");
 	}
 }
