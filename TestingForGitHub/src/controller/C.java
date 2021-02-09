@@ -22,7 +22,7 @@ public class C {
 //>>>>>>> branch 'master' of https://github.com/LearningGitHubProjects/testProject.git
 	
 	
-	System.out.println("THESE CHANGES FROM ORIGIN.......");
+	System.out.println("THEoeE CHANGES FROM ORIGIN.......");
 	
 	}
 }
