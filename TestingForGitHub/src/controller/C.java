@@ -22,7 +22,11 @@ public class C {
 //>>>>>>> branch 'master' of https://github.com/LearningGitHubProjects/testProject.git
 	
 	
+<<<<<<< HEAD
 	System.out.println("Origin changes done.......");
+=======
+	System.out.println("THEoeE CHANGES FROM ORIGIN.......");
+>>>>>>> branch 'master' of https://github.com/LearningGitHubProjects/testProject.git
 	
 	}
 }
