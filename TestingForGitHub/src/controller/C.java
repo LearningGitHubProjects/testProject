@@ -1,6 +1,5 @@
 package controller;
 
 public class C {
-	//hello EVERyone
-
+	//hello EVERyon
 }
