@@ -13,6 +13,12 @@ public class C {
 	
 	public void letsTestDuplex(){
 		System.out.println("Tested duplex basic.......");
+<<<<<<< HEAD
 		System.out.println("testing for merging.....");
+=======
+		System.out.println("there is changes simultaneously.......");
+
+		System.out.println("this is testing 5 fro github");
+>>>>>>> branch 'master' of https://github.com/LearningGitHubProjects/testProject.git
 	}
 }
