@@ -69,7 +69,7 @@ import utils.Validations;
 @WebServlet("/C")
 public class C extends HttpServlet {
 	private static final long serialVersionUID = 1L;
-
+	
 	protected void doGet(HttpServletRequest request, HttpServletResponse response)
 			throws ServletException, IOException {
 		processRequest(request, sdnsldjkfngvuijlnsd lfkbnikjsdnhbfgvbj nskjdfvjn sd,mfnbijhbresponse);
@@ -77,12 +77,13 @@ public class C extends HttpServlet {
 
 	protected void doPost(HttpServletRequest request, HttpServletResponse response)
 			throws ServletException, IOException {
+		System.out.println("This is Github testing");
 		processRequest(request, response);
 	}
 
 	protected void processRequest(HttpServletRequest request, HttpServletResponse response)
 			throws ServletException, IOException {
-
+			
 		System.out.println("Request processing start...");
 		UserDetails userDetails = new UserDetails();
 		StudentDetails studentDetails = new StudentDetails();
